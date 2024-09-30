@@ -313,7 +313,7 @@ body {
   .photos .carousel-caption {
     bottom: 10%;
     padding: 20px;
-    max-width: 60%; 
+    max-width: 450px; 
     left: 50%;
     transform: translateX(-50%); 
   }
